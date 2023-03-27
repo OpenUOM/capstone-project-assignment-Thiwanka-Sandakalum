@@ -132,8 +132,12 @@
         }
       }
     }},
+<<<<<<< HEAD
   "defaultProject": "capstone-frontend",
   "cli": {
     "analytics": "9e1c9454-396d-4480-87c6-5879a61c716d"
   }
+=======
+  "defaultProject": "capstone-frontend"
+>>>>>>> origin/main
 }
