@@ -1,6 +1,4 @@
 const server  = require ("./server.js");
-const express = require('express');
-const app = express();
 
 if(process.env.NODE_ENV === "test"){
   server.listen(3000, () => {
