@@ -6,10 +6,7 @@ import { environment } from './../environments/environment';
   providedIn: 'root'
 })
 export class AppServiceService {
-<<<<<<< HEAD
   [x: string]: any;
-=======
->>>>>>> origin/main
 
   readonly ROOT_URL;
 

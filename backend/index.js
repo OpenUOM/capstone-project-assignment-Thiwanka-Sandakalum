@@ -12,8 +12,4 @@ if(process.env.NODE_ENV === "test"){
       "Capstone Project Backend is running on http://localhost:8080"
     );
   });
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> origin/main
