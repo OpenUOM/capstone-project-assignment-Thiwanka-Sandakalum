@@ -131,6 +131,7 @@
           }
         }
       }
+<<<<<<< HEAD
     }
   },
   "defaultProject": "capstone-frontend",
@@ -138,3 +139,15 @@
     "analytics": "4f5c0551-e202-4c09-a880-240847ea0219"
   }
 }
+=======
+    }},
+<<<<<<< HEAD
+  "defaultProject": "capstone-frontend",
+  "cli": {
+    "analytics": "9e1c9454-396d-4480-87c6-5879a61c716d"
+  }
+=======
+  "defaultProject": "capstone-frontend"
+>>>>>>> origin/main
+}
+>>>>>>> d7299b78b2cfd7c559cb54816be971614e2cd7d6
